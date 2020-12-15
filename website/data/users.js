@@ -49,4 +49,10 @@ module.exports = [
     infoLink: 'https://www.notion.so/hilezi/d7ac6acf3ee94029a245be3df3c9f5fe',
     pinned: true,
   },
+    {
+    caption: 'Mode Group',
+    image: 'https://drive.google.com/uc?id=13osB5YjB5-Egjxrys8uGou5v6BQ_9TUX',
+    infoLink: 'https://m.me/modegroup.krd',
+    pinned: true,
+  }
 ];
